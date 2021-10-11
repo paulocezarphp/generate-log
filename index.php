@@ -6,5 +6,11 @@
 </head>
 <body>
 
+	<?php
+       
+        include("generate-log.php");
+
+	?>
+
 </body>
 </html>
