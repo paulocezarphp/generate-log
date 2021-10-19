@@ -1,6 +1,6 @@
 <?php
    
-   include("class/file.php");
-   include("class/system.php");
+   include("class/gl-file.php");
+   include("class/gl-system.php");
 
 ?>

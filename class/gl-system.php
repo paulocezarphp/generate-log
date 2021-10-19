@@ -9,7 +9,6 @@
    function remove_log($file){
    	  
 
-
    }
 
 ?>
